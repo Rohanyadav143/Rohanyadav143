@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hello, I'm Rohan Yadav
 
-<!--
-**Rohanyadav143/Rohanyadav143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE | 💻 Full Stack Java Developer | 🌐 React Enthusiast | 📍 Lucknow, India
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm passionate about software development and love working on full-stack applications using Java, Spring Boot, and React. I enjoy solving problems and learning new technologies every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills & Technologies
+
+**Languages:**  
+`Java` `JavaScript` `HTML` `CSS` `SQL`
+
+**Frontend:**  
+`React.js` `Bootstrap`
+
+**Backend:**  
+`Java Servlets` `JSP` `Spring Boot` `JDBC`
+
+**Tools & Databases:**  
+`MySQL` `VS Code` `Eclipse` `NetBeans` `Git` `GitHub`
+
+---
+
+## 📈 GitHub Stats
+
+![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohanyadav143&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohanyadav143&layout=compact&theme=radical)
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: rohanyadav143@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/rohan-yadav-823a39231)
+
+---
+
+> _"The best way to learn is by building."_
+
+Thanks for stopping by! 😊
