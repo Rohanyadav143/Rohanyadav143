@@ -1,41 +1,35 @@
 # 👋 Hello, I'm Rohan Yadav
-
-🎓 B.Tech CSE | 💻 Full Stack Java Developer | 🌐 React Enthusiast | 📍 Lucknow, India
-
-Welcome to my GitHub profile! I'm passionate about software development and love working on full-stack applications using Java, Spring Boot, and React. I enjoy solving problems and learning new technologies every day.
-
+🎓 B.Tech CSE | 💻 Full Stack Java Developer | 🧠 DSA Enthusiast | 🌍 Based in Lucknow, India
 ---
-
-## 🛠️ Skills & Technologies
-
-**Languages:**  
-`Java` `JavaScript` `HTML` `CSS` `SQL`
-
-**Frontend:**  
+## 🧑‍💻 About Me
+I’m an aspiring software engineer with a strong foundation in Java, full-stack development, and data structures & algorithms. With over **600+ problems solved** across LeetCode, GFG, and HackerRank, I love solving real-world challenges through clean and efficient code. I’m passionate about learning, building, and collaborating on meaningful tech.
+---
+## 🛠️ Tech Stack
+**Languages & Fundamentals**  
+`Java` `JavaScript` `HTML` `CSS` `SQL` `C (Basic)`
+**Frontend**  
 `React.js` `Bootstrap`
-
-**Backend:**  
-`Java Servlets` `JSP` `Spring Boot` `JDBC`
-
-**Tools & Databases:**  
-`MySQL` `VS Code` `Eclipse` `NetBeans` `Git` `GitHub`
-
+**Backend**  
+`Java Servlets` `JSP` `Spring (learning)` `JDBC`
+**Database & Tools**  
+`MySQL` `Git` `GitHub` `VS Code` `Eclipse` `Intellij`  
 ---
-
+## 🌐 Online Presence
+- 🔗 GitHub: [Rohanyadav143](https://github.com/Rohanyadav143)
+- 💼 LinkedIn: [rohan-yadav](https://www.linkedin.com/in/rohan-yadav-20b064255/)
+- 🧠 LeetCode: [rohn1895](https://leetcode.com/u/rohn1895/)
+- 🔍 HackerRank: [rohn1895](https://www.hackerrank.com/profile/rohn1895)
+- 🌐 Portfolio Website: [rohanyadav143.github.io/Portfolio-Website](https://rohanyadav143.github.io/Portfolio-Website/)
+---
 ## 📈 GitHub Stats
-
-![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohanyadav143&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohanyadav143&layout=compact&theme=radical)
-
+![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohanyadav143&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohanyadav143&layout=compact&theme=tokyonight)
 ---
-
-## 📫 Let's Connect
-
-- 📧 Email: rohanyadav143@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/rohan-yadav-823a39231)
-
+## ✨ Fun Facts
+- 🔥 Solved **600+ DSA problems** on coding platforms  
+- 🎯 Always learning new tools — currently exploring **Spring Boot**
+- 🏆 Participated in multiple **coding competitions**
+- 👨‍🏫 Helping peers with DSA and Java backend topics
 ---
-
-> _"The best way to learn is by building."_
-
-Thanks for stopping by! 😊
+> _“The secret of getting ahead is getting started.”
+Thanks for visiting my profile! 😊
