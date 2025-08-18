@@ -12,11 +12,11 @@ I’m an aspiring software engineer with a strong foundation in Java, full-stack
 
 ## 🛠️ Tech Stack
 
-**Languages & Fundamentals**  
-`Java` `JavaScript` `HTML` `CSS` `SQL`
+**Languages**  
+`Java` `Python`
 
 **Frontend**  
-`React.js` `Bootstrap`
+`JavaScript` `HTML` `CSS` `React.js` `Bootstrap`
 
 **Backend**  
 `JDBC` `Java Servlets` `JSP` `Hibernate` `SpringBoot` 
@@ -51,7 +51,7 @@ I’m an aspiring software engineer with a strong foundation in Java, full-stack
 
 ## ✨ Fun Facts
 
-- 🔥 Solved **600+ DSA problems** on coding platforms  
+- 🔥 Solved **800+ DSA problems** on coding platforms  
 - 🎯 Always learning new tools — currently exploring **Spring Boot**
 - 🏆 Participated in multiple **coding competitions**
 - 👨‍🏫 Helping peers with DSA and Java backend topics
