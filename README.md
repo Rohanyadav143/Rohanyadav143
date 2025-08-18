@@ -6,20 +6,20 @@
 
 ## 🧑‍💻 About Me
 
-I’m an aspiring software engineer with a strong foundation in Java, full-stack development, and data structures & algorithms. With over **600+ problems solved** across LeetCode, GFG, and HackerRank, I love solving real-world challenges through clean and efficient code. I’m passionate about learning, building, and collaborating on meaningful tech.
+I’m an aspiring software engineer with a strong foundation in Java, full-stack development, and data structures & algorithms. With over **800+ problems solved** across LeetCode, GFG, and HackerRank, I love solving real-world challenges through clean and efficient code. I’m passionate about learning, building, and collaborating on meaningful tech.
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages & Fundamentals**  
-`Java` `JavaScript` `HTML` `CSS` `SQL` `C (Basic)`
+`Java` `JavaScript` `HTML` `CSS` `SQL`
 
 **Frontend**  
 `React.js` `Bootstrap`
 
 **Backend**  
-`Java Servlets` `JSP` `Spring (learning)` `JDBC`
+`JDBC` `Java Servlets` `JSP` `Hibernate` `SpringBoot` 
 
 **Database & Tools**  
 `MySQL` `Git` `GitHub` `VS Code` `Eclipse` `NetBeans`  
