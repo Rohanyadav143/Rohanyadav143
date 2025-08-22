@@ -22,7 +22,7 @@ I’m an aspiring software engineer with a strong foundation in Java, full-stack
 `JDBC` `Java Servlets` `JSP` `Hibernate` `SpringBoot` 
 
 **Database & Tools**  
-`MySQL` `Git` `GitHub` `VS Code` `Eclipse` `NetBeans`  
+`MySQL` `Git` `GitHub` `VS Code` `Eclipse` `Jire` `WordPress`  
 
 ---
 
