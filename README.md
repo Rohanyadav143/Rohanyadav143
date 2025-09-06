@@ -13,16 +13,16 @@ I’m an aspiring software engineer with a strong foundation in Java, full-stack
 ## 🛠️ Tech Stack
 
 **Languages**  
-`Java` `Python`
+`Java`
 
 **Frontend**  
 `JavaScript` `HTML` `CSS` `React.js` `Bootstrap`
 
 **Backend**  
-`JDBC` `Java Servlets` `JSP` `Hibernate` `SpringBoot` 
+`JDBC` `Hibernate` `SpringBoot` 
 
 **Database & Tools**  
-`MySQL` `Git` `GitHub` `VS Code` `Eclipse` `Jire` `WordPress`  
+`MySQL` `Git` `GitHub` `VS Code` `Eclipse` `Intellij`  
 
 ---
 
