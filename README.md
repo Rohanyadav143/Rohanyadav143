@@ -28,12 +28,13 @@ I’m an aspiring software engineer with a strong foundation in Java, full-stack
 
 ## 🌐 Online Presence
 
-- 🔗 GitHub: [Rohanyadav143](https://github.com/Rohanyadav143)
-- 💼 LinkedIn: [rohan-yadav](https://www.linkedin.com/in/rohan-yadav-20b064255/)
-- 🧠 LeetCode: [rohn1895](https://leetcode.com/u/rohn1895/)
-- 🔍 HackerRank: [rohn1895](https://www.hackerrank.com/profile/rohn1895)
-- 🌐 Portfolio: [rohanyadav143.github.io/Portfolio-Website](https://rohanyadav143.github.io/Portfolio-Website/)
-
+- 🔗 GitHub: [Rohan Yadav GitHub](https://github.com/Rohanyadav143)
+- 💼 LinkedIn: [Rohan Yadav LinkedIn](https://www.linkedin.com/in/rohan-yadav-20b064255/)
+- 🧠 LeetCode: [Rohan Yadav LeetCode](https://leetcode.com/u/rohn1895/)
+- 🌍 GFG: [Rohan Yadav GFG](https://www.geeksforgeeks.org/user/rohn10kjj/)
+- 🔍 HackerRank: [Rohan Yadav HackerRank](https://www.hackerrank.com/profile/rohn1895)
+- 🌐 Portfolio: [Rohan Yadav Portfolio](https://rohanyadav143.github.io/Portfolio-Website/)
+  
 ---
 
 ## 📊 LeetCode Stats
