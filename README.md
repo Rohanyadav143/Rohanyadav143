@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Rohan Yadav
 
-🎓 B.Tech CSE | 💻 Full Stack Java Developer | 🧠 DSA Enthusiast | 🌍 Based in Lucknow, India
+🎓 B.Tech CSE | 💻 Full Stack Developer | 🧠 DSA Enthusiast | 🌍 Based in Lucknow, India
 
 ---
 
@@ -19,10 +19,10 @@ I’m an aspiring software engineer with a strong foundation in Java, full-stack
 `JavaScript` `HTML` `CSS` `React.js` `Bootstrap`
 
 **Backend**  
-`JDBC` `Hibernate` `SpringBoot` 
+`Node.js` `Express.js` 
 
 **Database & Tools**  
-`MySQL` `Git` `GitHub` `VS Code` `Eclipse` `Intellij`  
+`MongoDB` `MySQL` `Git` `GitHub` `VS Code` `Eclipse` `Intellij`  
 
 ---
 
@@ -52,7 +52,7 @@ I’m an aspiring software engineer with a strong foundation in Java, full-stack
 ## ✨ Fun Facts
 
 - 🔥 Solved **800+ DSA problems** on coding platforms  
-- 🎯 Always learning new tools — currently exploring **Spring Boot**
+- 🎯 Always learning new tools — currently exploring **Jira**
 - 🏆 Participated in multiple **coding competitions**
 - 👨‍🏫 Helping peers with DSA and Java backend topics
 
@@ -61,3 +61,5 @@ I’m an aspiring software engineer with a strong foundation in Java, full-stack
 > _“The secret of getting ahead is getting started.”_
 
 Thanks for visiting my profile! 😊
+
+...............................................................................................................................................................................
