@@ -30,10 +30,10 @@ I’m an aspiring software engineer with a strong foundation in Java, full-stack
 
 - 🔗 GitHub: [Rohan Yadav GitHub](https://github.com/Rohanyadav143)
 - 💼 LinkedIn: [Rohan Yadav LinkedIn](https://www.linkedin.com/in/rohan-yadav-20b064255/)
+- 🌐 Portfolio: [Rohan Yadav Portfolio](https://rohanyadav143.github.io/Portfolio-Website/)
 - 🧠 LeetCode: [Rohan Yadav LeetCode](https://leetcode.com/u/rohn1895/)
 - 🌍 GFG: [Rohan Yadav GFG](https://www.geeksforgeeks.org/user/rohn10kjj/)
 - 🔍 HackerRank: [Rohan Yadav HackerRank](https://www.hackerrank.com/profile/rohn1895)
-- 🌐 Portfolio: [Rohan Yadav Portfolio](https://rohanyadav143.github.io/Portfolio-Website/)
   
 ---
 
