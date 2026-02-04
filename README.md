@@ -79,12 +79,6 @@ B.Tech CSE Student | Full Stack Developer | Java | Cloud & DevOps | DSA Enthusia
   <a href="https://leetcode.com/u/rohn1895/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"></a>
 </p>
 
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohanyadav143&show_icons=true&theme=dark" />
-</p>
 
 ---
 
