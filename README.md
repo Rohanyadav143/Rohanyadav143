@@ -83,7 +83,7 @@ B.Tech CSE Student | Full Stack Developer | Java | Cloud & DevOps | DSA Enthusia
 ---
 
 ## 🗺️ Contribution Graph
-![Snake animation](https://github.com/irfan-ansari303/irfan-ansari303/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Rohanyadav143/Rohanyadav143/blob/output/github-contribution-grid-snake.svg)
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rohanyadav143&theme=github_dark" />
 </p>
