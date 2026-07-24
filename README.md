@@ -1,111 +1,319 @@
 <h1 align="center">Hi 👋, I'm Rohan Yadav</h1>
 
 <h3 align="center">
-B.Tech CSE Student | Full Stack Developer | Java | Cloud & DevOps | DSA Enthusiast
+Full Stack Developer • MERN Stack Developer • React • Redux Toolkit • TypeScript
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=700&lines=Java+Developer;Full+Stack+Engineer;800%2B+DSA+Problems+Solved;React+%7C+Node+%7C+MongoDB;Docker+%7C+Kubernetes+%7C+AWS;Always+Learning+New+Things" />
+Building scalable, modern and high-performance web applications.
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Developer;React+%7C+Redux+Toolkit+%7C+TypeScript;Node.js+%7C+Express+%7C+MongoDB;Docker+%7C+Kubernetes+%7C+AWS;800%2B+DSA+Problems+Solved;Always+Learning+New+Technologies" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Rohanyadav143&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://img.shields.io/github/followers/Rohanyadav143?label=Followers&style=social"/>
+<img src="https://img.shields.io/github/stars/Rohanyadav143?affiliations=OWNER&style=social"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-🎓 **B.Tech Computer Science student** from **Lucknow, India**  
-💡 Strong in **Java, Full Stack Development & Data Structures**  
-🔥 Solved **800+ DSA problems** on **LeetCode, GFG & HackerRank**  
-🤝 Open to **Open Source contributions & team collaborations**  
-🎯 Currently focusing on **Cloud, DevOps & System Design**  
+- 🎓 B.Tech Computer Science Engineering Student
+- 💻 Passionate about Full Stack Web Development
+- 🧠 Solved **800+ DSA Problems**
+- 🌱 Currently learning **Docker, Kubernetes, AWS & System Design**
+- 🚀 Building scalable MERN applications
+- 🤝 Open to Software Engineering Opportunities
+- ⚡ Believe in **Learn → Build → Improve → Repeat**
 
 ---
 
-## 🛠️ Tech Stack
+# 🔥 Current Focus
 
-### 💻 Programming Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c" />
-</p>
+- 💼 Full Stack Development
+- ☁️ Cloud Computing
+- 🐳 Docker
+- ☸ Kubernetes
+- ⚙️ Backend Development
+- 📈 Open Source Contributions
 
-### 🎨 Frontend
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
+---
 
-### ⚙️ Backend & APIs
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express" />
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge" />
-</p>
+# 💻 Tech Stack
 
-### 🗄️ Databases
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+## 🚀 Languages
 
-### ☁️ DevOps & Cloud
 <p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</p>
 
-### 🧰 Tools & Platforms
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code" />
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea" />
+<img src="https://skillicons.dev/icons?i=java,c,js,ts"/>
+
 </p>
 
 ---
 
-## 🌐 Connect & Coding Profiles
+## 🎨 Frontend
+
 <p align="center">
-  <a href="https://github.com/Rohanyadav143"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"></a>
-  <a href="https://www.linkedin.com/in/rohan-yadav-20b064255/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://portfolio-website-315a.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=vercel"></a>
-  <a href="https://leetcode.com/u/rohn1895/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"></a>
+
+<img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind,bootstrap"/>
+
 </p>
 
 ---
 
-## 🗺️ Contribution Graph
-![Snake animation](https://github.com/Rohanyadav143/Rohanyadav143/blob/output/github-contribution-grid-snake.svg)
+## ⚙ Backend
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rohanyadav143&theme=github_dark" />
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
+
 </p>
 
 ---
 
-## 📊 Coding Stats
+## ☁️ Cloud & DevOps
+
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/rohn1895?theme=dark&font=Fira+Code&ext=contest" />
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws"/>
+
 </p>
 
 ---
 
-## ✨ Highlights
-- 🔥 800+ DSA problems solved on **LeetCode & GFG**  
-- 🏆 Active in coding contests & hackathons  
-- ☁️ Building projects with **Docker & Kubernetes**  
-- 👨‍🏫 Mentoring juniors in **Java & DSA**  
-- 🚀 Targeting **Software Engineer / Full Stack / Cloud roles**  
+## 🛠 Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,eclipse,idea"/>
+
+</p>
 
 ---
 
-<p align="center"><i>“The secret of getting ahead is getting started.”</i></p>
-<p align="center">⭐ If you like my work, consider starring my repositories!</p>
+# 🚀 Featured Projects
 
+## 💼 Job Portal (MERN Stack)
+
+A modern full-stack Job Portal where recruiters and candidates can connect.
+
+### ✨ Features
+
+- 🔐 JWT Authentication
+- 👤 Recruiter & Candidate Login
+- 📄 Resume Upload
+- 💼 Job Posting
+- ❤️ Save Jobs
+- 🔍 Search & Filter
+- 📊 Recruiter Dashboard
+- 📱 Responsive Design
+
+### 🛠 Tech Stack
+
+- React
+- Redux Toolkit
+- TypeScript
+- Node.js
+- Express.js
+- MongoDB
+- JWT Authentication
+
+---
+
+## 🛒 E-Commerce Platform
+
+### ✨ Features
+
+- Authentication
+- Product Listing
+- Shopping Cart
+- Checkout
+- Admin Dashboard
+- Order Management
+
+### 🛠 Tech Stack
+
+- React
+- Node.js
+- Express
+- MongoDB
+- JWT
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Rohanyadav143&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohanyadav143&theme=github-dark"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Rohanyadav143/Rohanyadav143/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+
+</p>
+
+---
+
+# 📊 LeetCode Stats
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/rohn1895?theme=dark&font=Fira+Code&ext=contest"/>
+
+</p>
+
+---
+
+# 📈 GitHub Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rohanyadav143&theme=github_dark"/>
+
+</p>
+
+---
+
+# 🚀 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/u/rohn1895/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 🏅 Achievements
+
+- 🧠 Solved **800+ DSA Problems**
+- 🏆 Active on **LeetCode, GeeksforGeeks & HackerRank**
+- 💻 Built Multiple **Full Stack MERN Applications**
+- 🚀 Passionate about scalable Backend Development
+- 📚 Continuously learning **Cloud, DevOps & System Design**
+- 🤝 Open Source Enthusiast
+- ⚡ Strong problem-solving and debugging skills
+
+---
+
+# 📚 Currently Learning
+
+```text
+✔ TypeScript
+✔ Redux Toolkit
+✔ Docker
+✔ Kubernetes
+✔ AWS
+✔ System Design
+✔ CI/CD
+✔ Design Patterns
+```
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Crack Software Engineer Role
+- 🌍 Contribute to Open Source
+- 🏆 Reach 1000+ DSA Problems
+- ☁️ Master AWS & Kubernetes
+- 📱 Build Production Ready MERN Applications
+- 🧠 Learn Advanced System Design
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Rohanyadav143">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rohan-yadav-20b064255/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://portfolio-website-315a.onrender.com/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/rohn1895/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Fun Fact
+
+```text
+I enjoy solving complex problems, building scalable web applications,
+and continuously learning new technologies.
+```
+
+---
+
+# 💬 Favorite Quote
+
+<p align="center">
+
+> **"First, solve the problem. Then, write the code."**
+>
+> — John Johnson
+
+</p>
+
+---
+
+# ❤ Support
+
+If you like my projects, consider giving them a ⭐.
+
+It motivates me to build more awesome projects.
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+Happy Coding 🚀
+
+</h3>
